@@ -1,0 +1,4 @@
+item.followerEgg.name=Follower Egg
+tile.grassBlock.name=Grass Block
+itemGroup.tabTestMod=Test
+entity.Follower.name=Follower

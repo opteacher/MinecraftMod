@@ -1,0 +1,4 @@
+item.followerEgg.name=随从蛋
+tile.grassBlock.name=草块
+itemGroup.tabTestMod=测试
+entity.Follower.name=随从
